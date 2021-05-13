@@ -1,1 +1,1 @@
-# FGRNet:Fusing Guidance Image Filtering and Reverse Attention for polyp Segmentation
+# FGRNet:Fusing Guidance Image Filtering and Reverse Attention for Polyp Segmentation
